@@ -330,10 +330,11 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Scapy](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 - [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 - [canTot](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
-- [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) - Python interface to SocketCAN
-- [canmatrix](https://github.com/ebroecker/canmatrix) - Python module to work with CAN matrix files
-- [canopen](https://canopen.readthedocs.io/en/latest/) - Python module to communicate with CANopen devices
-- [cantools](https://github.com/eerimoq/cantools) - Python module to decode and encode CAN messages using a DBC file
+- [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
+- [canmatrix](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with automotive diagnostic drivers for UDS, DoIP, and CAN bus protocols.
+- [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
+- [cantools](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
 - [Caring Caribou Next](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
 - [canarchy](https://github.com/hexsecs/canarchy) - CANarchy is a stream-first CAN analysis and manipulation runtime designed for automation, security research, and agent-driven workflows.
 
